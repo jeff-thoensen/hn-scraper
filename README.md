@@ -1,6 +1,6 @@
 # HN Scraper
 
-This is a quick Python script that scrapes top stories from Hacker News and sorts them by title. Nothing fancy — just trying out some test coverage and GitHub Actions.
+This is a quick Python script that scrapes top stories from Hacker News and sorts them by title.
 
 ### What it does
 
